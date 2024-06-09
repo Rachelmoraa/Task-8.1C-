@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <!-- Define the background color for the user message -->
+    <solid android:color="#F1F1F1" /> <!-- Change the color code as needed -->
+    <!-- Define the corner radius for rounded corners -->
+    <corners android:radius="8dp" /> <!-- Adjust the corner radius as needed -->
+</shape>
